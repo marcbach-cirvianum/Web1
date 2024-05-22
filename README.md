@@ -1,1 +1,2 @@
-# Web1
+# BlackJack
+BlackJack joc de cartes

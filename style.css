@@ -1,0 +1,50 @@
+body{
+    background-image: url(fondo-negro-textura-madera-envejecida-fondo-transparente-mesa-madera-oscura_84485-594.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}   
+h2{
+    background-color: rgba(27, 114, 117, 0.484);
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    width: 500px;
+}
+button:disabled{
+    background-color: rgba(97, 184, 238, 0.493);
+    color: silver;
+}
+div#tauler2{
+    height: 500px;
+    width: 33%;
+    float: right;
+}
+div#tauler3{
+    height: 500px;
+    float: right;
+    width: 33%;
+}
+div#tauler{
+    float: right;
+    background-image: url(poker-table-background-green-color_47243-1094.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+    height: 800px;
+    width: 33%;
+    background-color: rgb(199, 223, 206);
+    border-radius: 35px;
+    margin-bottom: 10px;
+}
+div#banca{
+    margin-top: 50%;
+}
+button{
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(159, 28, 28);
+    color: white;
+}
